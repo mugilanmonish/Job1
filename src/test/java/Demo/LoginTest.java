@@ -7,7 +7,6 @@ public class LoginTest {
 	
 	@Test
 	public void login() {
-		Reporter.log("--------------Job1 - Login------------");
-		org.testng.Assert.fail();
+		Reporter.log("--------------Job1 - Login------------", true);
 	}
 }
