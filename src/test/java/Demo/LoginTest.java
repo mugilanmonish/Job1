@@ -7,11 +7,6 @@ public class LoginTest {
 	
 	@Test
 	public void login() {
-		dsflkjdsflk
 		Reporter.log("--------------Job1 - Login------------", true);
-		
-		//New line added
-		// Extra line added
-		// Extra line added
 	}
 }
